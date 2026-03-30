@@ -1,0 +1,11 @@
+datasets
+torch
+numpy
+tiktokenizer
+matplotlib
+transformers
+torchvision
+evaluate
+accelerate - U
+transformers[torch]
+peft
